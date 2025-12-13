@@ -38,7 +38,7 @@ Poniżej znajduje się schemat ideowy, który przedstawia konfigurację połącz
 
 ### Zdjęcie  Układu
 
-images/zdjecie_ukladu.png
+![Zdjęcie układu](images/zdjecie_ukladu.png)
 
 
 
