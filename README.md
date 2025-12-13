@@ -11,7 +11,7 @@ Projekt prezentuje budowę i działanie układu do zdalnego sterowania oświetle
 
 ---
 
-## 📋 Użyte Komponenty (Bill of Materials – BOM)
+## 📋 Użyte Komponenty 
 
 | Komponent | Symbol | Wartość/Typ | Funkcja | Ilość |
 | :--- | :--- | :--- | :--- | :--- |
