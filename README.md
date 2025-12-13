@@ -28,25 +28,21 @@ Ten projekt prezentuje budowę i działanie układu do zdalnego sterowania oświ
 
 ## 📐 Schemat Ideowy
 
-Poniżej znajduje się schemat ideowy, który przedstawia prawidłową konfigurację **przełącznika górnej strony (PNP High-Side Switch)**, sterowanego z TSOP.
+Poniżej znajduje się schemat ideowy, który przedstawia konfigurację połączeń w układzie.
 
-![Schemat ideowy przełącznika IR z tranzystorem PNP S8550](images/schemat_finalny.png)
+(images/schemat_ukladu.pdf)
 
 ---
 
 ## 📸 Galeria Zdjęć
 
-### Zdjęcie Ukończonego Układu
+### Zdjęcie  Układu
 
-![Zdjęcie gotowego układu na płytce stykowej](images/uklad_gotowy.jpg)
+(images/zdjecie_układu.png)
 
-### Weryfikacja Działania (Wzmacnianie Prądu)
 
-Zdjęcie lub wykres z pomiaru potwierdzające spadek napięcia na tranzystorze ($V_{CE}$) w stanie WŁĄCZ (nawet jeśli jest w obszarze aktywnym).
 
-**[MIEJSCE NA WYKRES LUB ZDJĘCIE POMIARU $V_{CE}$]**
 
----
 
 ## 📺 Demonstracja Działania (Video)
 
