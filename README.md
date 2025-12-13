@@ -48,5 +48,4 @@ Poniżej znajduje się schemat ideowy, który przedstawia konfigurację połącz
 
 Poniższy link prowadzi do pełnej demonstracji wideo, która przedstawia włączanie i wyłączanie diod LED za pomocą pilota IR, pokazując udaną integrację TSOP i tranzystora.
 
-```markdown
-**Link do Wideo:** [https://youtu.be/](https://youtu.be/)[TWÓJ_LINK_DO_WIDEO]
+**Link do Wideo:** [Obejrzyj działanie układu na YouTube](https://www.youtube.com/shorts/gkjFJrYc7yM)
