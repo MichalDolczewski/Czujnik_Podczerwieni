@@ -1,13 +1,13 @@
-# 🚀 Zdalnie Sterowany Przełącznik LED IR (PNP Switch Demonstrator)
+# 🚀 Odbiornik podczerwieni + 3 diody LED + tranzystor PNP
 
 ## 🌟 Opis Projektu
 
 Ten projekt prezentuje budowę i działanie układu do zdalnego sterowania oświetleniem LED, wykorzystującego sygnały podczerwone (IR). Głównym celem projektu jest demonstracja:
 
 1.  **Integracji Czujnika IR (TSOP34838):** Układ odbiera sygnał z dowolnego pilota IR i przetwarza go na sygnał sterujący.
-2.  **Zastosowania Tranzystora PNP (S8550) jako Wzmacniacza/Przełącznika:** Tranzystor PNP jest użyty jako przełącznik górnej strony (**High-Side Switch**), który kontroluje przepływ prądu do diod LED. Tranzystor wzmacnia słaby prąd z wyjścia TSOP do poziomu wymaganego przez diody LED.
+2.  **Zastosowanie Tranzystora PNP (S8550) jako wzmacniacz, który kontroluje przepływ prądu do diod LED. Tranzystor wzmacnia słaby prąd z wyjścia TSOP do poziomu wymaganego przez diody LED.
 
-**Status Nasycenia:** Ze względu na specyficzne parametry użytego modelu tranzystora S8550 oraz ograniczenia prądowe sterownika (TSOP), układ **demonstruje wyraźne włączanie/wyłączanie LED**, jednak tranzystor może pracować w **obszarze aktywnym** (z $V_{CE}$ wyższym niż typowe $0.2 \text{V}$), zamiast idealnego nasycenia. Pomimo to, funkcjonalność sterowania jest w pełni zachowana.
+
 
 ---
 
