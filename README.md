@@ -30,7 +30,7 @@ Ten projekt prezentuje budowę i działanie układu do zdalnego sterowania oświ
 
 Poniżej znajduje się schemat ideowy, który przedstawia konfigurację połączeń w układzie.
 
-![Schemat ideowy](images/schemat_ukladu.pdf)
+![Schemat ideowy](images/schemat_ukladu.png)
 
 ---
 
