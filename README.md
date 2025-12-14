@@ -16,7 +16,7 @@ Projekt prezentuje budowę i działanie układu do zdalnego sterowania oświetle
 | Komponent | Symbol | Wartość/Typ | Funkcja | Ilość |
 | :--- | :--- | :--- | :--- | :--- |
 | Tranzystor PNP | T1 | **S8550** | Wzmacniacz prądu | 1 |
-| Odbiornik IR | U1 | **TSOP34838** | Odbiór sygnału z pilota IR | 1 |
+| Odbiornik IR | U3 | **TSOP34838** | Odbiór sygnału z pilota IR | 1 |
 | Dioda LED | D1, D2, D3 | **Czerwona, Zielona, Niebieska** | Obciążenie / Wskaźniki świetlne | 3 |
 | Rezystory LED | R4, R5, R6 | **100 $\Omega$** | Ograniczenie prądu dla każdej diody LED (połączenie równoległe) | 3 |
 | Rezystor Bazy | R\_base | $1 \text{ k}\Omega$ | Bezpieczne ograniczenie prądu $I_B$ | 1 |
