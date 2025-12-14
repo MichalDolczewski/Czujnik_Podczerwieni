@@ -19,7 +19,7 @@ Projekt prezentuje budowę i działanie układu do zdalnego sterowania oświetle
 | Odbiornik IR | U1 | **TSOP34838** | Odbiór sygnału z pilota IR | 1 |
 | Dioda LED | D1, D2, D3 | **Czerwona, Zielona, Niebieska** | Obciążenie / Wskaźniki świetlne | 3 |
 | Rezystory LED | R4, R5, R6 | **100 $\Omega$** | Ograniczenie prądu dla każdej diody LED (połączenie równoległe) | 3 |
-| Rezystor Bazy | R\_base | **1 k$\Omega$** | Bezpieczne ograniczenie prądu $I_B$ | 1 |
+| Rezystor Bazy | R\_base | $1\,\text{k}\Omega$ | Bezpieczne ograniczenie prądu $I_B$ | 1 |
 | Kondensator Filtracji | C1 | **220 $\mu\text{F}$** | Filtracja tętnień zasilania (elektrolityczny) | 1 |
 | Kondensator Odprzęgający| C2 | **100 $\text{nF}$** | Odprzęganie szumów (ceramiczny) | 1 |
 | Zasilanie | BAT1 | **4.5 V** (3x AA) | Źródło zasilania układu | 1 |
