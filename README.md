@@ -5,7 +5,7 @@
 Projekt prezentuje budowę i działanie układu do zdalnego sterowania oświetleniem LED, wykorzystującego sygnały podczerwone (IR). Głównym celem projektu jest demonstracja:
 
 1.  **Integracji Czujnika IR (TSOP34838):** Układ odbiera sygnał z dowolnego pilota IR i przetwarza go na sygnał sterujący.
-2.  **Zastosowanie Tranzystora PNP (S8550) jako wzmacniacz, który kontroluje przepływ prądu do diod LED. Tranzystor wzmacnia słaby prąd z wyjścia TSOP do poziomu wymaganego przez diody LED.
+2.  **Zastosowanie Tranzystora PNP (S8550)** jako wzmacniacz, który kontroluje przepływ prądu do diod LED. Tranzystor wzmacnia słaby prąd z wyjścia TSOP do poziomu wymaganego przez diody LED.
 
 
 
