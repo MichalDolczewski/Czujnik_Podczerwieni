@@ -1,6 +1,6 @@
-# 🚀 Odbiornik podczerwieni + 3 diody LED + tranzystor PNP
+#  Odbiornik podczerwieni + 3 diody LED + tranzystor PNP
 
-## 🌟 Opis Projektu
+##  Opis Projektu
 
 Projekt prezentuje budowę i działanie układu do zdalnego sterowania oświetleniem LED, wykorzystującego sygnały podczerwone (IR). Głównym celem projektu jest demonstracja:
 
@@ -11,7 +11,7 @@ Projekt prezentuje budowę i działanie układu do zdalnego sterowania oświetle
 
 ---
 
-## 📋 Użyte Komponenty 
+##  Użyte Komponenty 
 
 | Komponent | Symbol | Wartość/Typ | Funkcja | Ilość |
 | :--- | :--- | :--- | :--- | :--- |
@@ -26,7 +26,7 @@ Projekt prezentuje budowę i działanie układu do zdalnego sterowania oświetle
 
 ---
 
-## 📐 Schemat Ideowy
+##  Schemat Ideowy
 
 Poniżej znajduje się schemat ideowy, który przedstawia konfigurację połączeń w układzie.
 
@@ -34,7 +34,7 @@ Poniżej znajduje się schemat ideowy, który przedstawia konfigurację połącz
 
 ---
 
-## 📸 Galeria Zdjęć
+##  Galeria Zdjęć
 
 ### Zdjęcie  Układu
 
@@ -44,7 +44,7 @@ Poniżej znajduje się schemat ideowy, który przedstawia konfigurację połącz
 
 
 
-## 📺 Demonstracja Działania (Video)
+##  Demonstracja Działania (Video)
 
 Poniższy link prowadzi do pełnej demonstracji wideo, która przedstawia włączanie i wyłączanie diod LED za pomocą pilota IR, pokazując udaną integrację TSOP i tranzystora.
 
